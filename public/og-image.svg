@@ -1,0 +1,16 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5d1038"/>
+      <stop offset="0.5" stop-color="#b72570"/>
+      <stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="32" fill="url(#bg)"/>
+  <text x="90" y="270" fill="white" font-family="Georgia, serif" font-size="78" font-weight="700">
+    Dahmey's Royal Empire
+  </text>
+  <text x="90" y="345" fill="#ffeaf1" font-family="Arial, sans-serif" font-size="34">
+    Luxury Women's Fashion Marketplace
+  </text>
+</svg>

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "royal-muse-satin-dress",
+    "name": "Royal Muse Satin Dress",
+    "category": "Women's Fashion Clothing",
+    "price": 149,
+    "oldPrice": 210,
+    "rating": 4.8,
+    "reviews": 128,
+    "description": "A flowing satin silhouette with premium finishing for elegant day-to-night styling.",
+    "gradient": "from-rose-200 via-fuchsia-100 to-white",
+    "isNewArrival": true,
+    "inStock": true
+  },
+  {
+    "id": "imperial-luxe-shoulder-bag",
+    "name": "Imperial Luxe Shoulder Bag",
+    "category": "Bags",
+    "price": 189,
+    "oldPrice": 250,
+    "rating": 4.7,
+    "reviews": 96,
+    "description": "Structured silhouette in a timeless statement colorway with premium hardware.",
+    "gradient": "from-amber-100 via-orange-100 to-rose-50",
+    "isNewArrival": false,
+    "inStock": true
+  },
+  {
+    "id": "velvet-crown-heels",
+    "name": "Velvet Crown Heels",
+    "category": "Shoes",
+    "price": 129,
+    "oldPrice": 175,
+    "rating": 4.6,
+    "reviews": 84,
+    "description": "Chic pointed heels with comfort cushioning and runway-inspired shaping.",
+    "gradient": "from-violet-200 via-purple-100 to-white",
+    "isNewArrival": true,
+    "inStock": true
+  },
+  {
+    "id": "diamond-glow-beauty-set",
+    "name": "Diamond Glow Beauty Set",
+    "category": "Beauty",
+    "price": 79,
+    "oldPrice": 115,
+    "rating": 4.9,
+    "reviews": 170,
+    "description": "A complete beauty ritual set designed for radiant skin and signature glow.",
+    "gradient": "from-emerald-100 via-teal-50 to-white",
+    "isNewArrival": false,
+    "inStock": true
+  },
+  {
+    "id": "signature-wig-collection",
+    "name": "Signature Wig Collection",
+    "category": "Hair / Wigs",
+    "price": 239,
+    "oldPrice": 320,
+    "rating": 4.8,
+    "reviews": 65,
+    "description": "Luxe density and natural movement for effortless glam styling.",
+    "gradient": "from-cyan-100 via-sky-100 to-white",
+    "isNewArrival": true,
+    "inStock": true
+  },
+  {
+    "id": "regal-press-on-nails",
+    "name": "Regal Press-On Nails Set",
+    "category": "Press-On Nails",
+    "price": 24,
+    "oldPrice": 35,
+    "rating": 4.5,
+    "reviews": 212,
+    "description": "Salon-level press-on kit with reusable premium-finish nails.",
+    "gradient": "from-pink-200 via-rose-100 to-white",
+    "isNewArrival": false,
+    "inStock": true
+  }
+]
